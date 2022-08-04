@@ -1,6 +1,6 @@
 # Amazon Managed Blockchain
 
-![Amazon Managed Blockchain](images/AmazonManagedBlockchain.png 'Amazon Managed Blockchain')
+![Amazon Managed Blockchain](images/layer_architec.png 'Amazon Managed Blockchain')
 
 > Updated to support Fabric v1.4x
 
